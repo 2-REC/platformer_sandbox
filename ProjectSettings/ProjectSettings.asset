@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 43435626213ca654a959f7dd61d81aa1
+  productGUID: 652e252aeb511b746a916dba05479abf
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -594,14 +594,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: platformer_sandbox
+  metroPackageName: pedro
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: platformer_sandbox
+  metroApplicationDescription: pedro
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
